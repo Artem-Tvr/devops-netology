@@ -1,2 +1,2 @@
 # devops-netology
-Hallo World!
+Hello World!
